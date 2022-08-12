@@ -1,4 +1,5 @@
-# albertannguyen.github.io
-Github Pages
-
-Hey this is some text.
+# Personal Website
+## Plans
+- publish resume
+- link to projects
+- list of interests
